@@ -1,0 +1,32 @@
+canonical_identifier: bkk:krp/KR6v0527/v1
+canonical_location: https://kanripo.org/bkk/KR6v0527/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金山龍游禪寺志略
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA036/GA036n0037.xml
+    old_id: GA036n0037
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0527_000.yaml, hash: 'sha256:312e72bc9477ee14963f80188f9540fb346fed4ceecda141564b464d4d4e2041'}
+  - {seq: 1, filename: KR6v0527_001.yaml, hash: 'sha256:585d84390787e6bd9e3d9f5424de20116b95a57c7e88b9c0a4b6264104976cee'}
+  - {seq: 2, filename: KR6v0527_002.yaml, hash: 'sha256:d71769d226fd6427bf6a3d6f36a4cc3e3f023bce82e3c75561eb3b2fffbe20c7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0527_000.markers.yaml, hash: 'sha256:6b814328e493d27e9377d185bca0c71e1c9338e1f2b3035a64348a439bf1806d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0527_001.markers.yaml, hash: 'sha256:3b1b25d0c44ee7e41ae6c677f2b0dab623c04a0ae36aba384d40ddde0384ad25'}
+  - {seq: 2, role: markers, filename: assets/KR6v0527_002.markers.yaml, hash: 'sha256:dc85622af2322d3f49dc776a0ffe21bed04dac1069e39a286d29ccd540a9032c'}
+table_of_contents: []
+hash: sha256:3a8848c9d27bdb21995b6bd45ed54cbaa59a32f3699bb866d85ef9f941276485
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
