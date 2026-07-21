@@ -19,12 +19,12 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0527_000-GA.yaml, hash: 'sha256:1e8960108d3ee598d4155668f3eec25fa439b8757830270d3bab9a5c7ff820f2'}
+  - {seq: 0, filename: KR6v0527_000-GA.yaml, hash: 'sha256:eb63c79ba7f8b3667876e8efd780db8442ee2b14d7a30adaad26b8723b0f8b9d'}
   - {seq: 1, filename: KR6v0527_001-GA.yaml, hash: 'sha256:8adb20d7005fa78f96317c1e76cc8c36a2e3a73e090ae2d30d754bc5c000803c'}
   - {seq: 2, filename: KR6v0527_002-GA.yaml, hash: 'sha256:5eee764124c9f9415828b8cf44baa44b9ba90e833b2f9aa2a76f7b28ed22d37f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0527_000-GA.markers.yaml, hash: 'sha256:d27dc510b70f338bdc3e36b103524ed0f527941e296f56c12eef6e21e2d80ad8'}
+  - {seq: 0, role: markers, filename: assets/KR6v0527_000-GA.markers.yaml, hash: 'sha256:6d17b140b7b367f4842c9ac83ed6824b13d4e49f3749c0794b41ce517285b3a2'}
   - {seq: 1, role: markers, filename: assets/KR6v0527_001-GA.markers.yaml, hash: 'sha256:944fa6623d096c2e2eb752593344fa18f8d761d3ab38ea898f93605e18fb4a67'}
   - {seq: 2, role: markers, filename: assets/KR6v0527_002-GA.markers.yaml, hash: 'sha256:9d52efb8940e327eebf8ae8a1998416222f07e4605fbbcec9dc2b92e905ea818'}
 table_of_contents: []
-hash: sha256:85ad62423fac27d677bbcd02276e9a3621b79355c8c746923d12f1a8bcbf9b96
+hash: sha256:9ebb7c1d6ae8a1129c08ced83c20093fdbc0d3e549d7a05a5897ae65821a02a8
